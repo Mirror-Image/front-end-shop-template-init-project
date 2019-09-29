@@ -1,2 +1,2 @@
 **Check out the result on page:**
-https://maksimborovik.github.io/front-end-shop-template-init-project/
+https://mirrorimage7.github.io/front-end-shop-template-init-project/
